@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Starting Out - Detached Fork
+title: Starting Out
 ---
 
-Creating a simple portfolio.
+Creating a simple portfolio. Detached the initial Fork. 
+
+Follow guidelines here to build your own website!

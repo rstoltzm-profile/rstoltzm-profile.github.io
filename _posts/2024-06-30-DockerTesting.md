@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Project 1 - DockerTesting
+title: Project 1 - Docker Basics
 ---
 
-https://github.com/rstoltzm-profile/docker-testing
+## Startup Basic Docker Container
+
+A repo for doing some basic docker commands and getting started!
+
+Link to project here: [Github Link](https://github.com/rstoltzm-profile/docker-testing)
